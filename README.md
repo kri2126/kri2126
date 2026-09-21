@@ -119,30 +119,6 @@ flowchart LR
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
-
-<div align="center">
-
-| 분류 | 기술 스택 |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Game & Math** | ![HTML5 Canvas 2D](https://img.shields.io/badge/HTML5_Canvas_2D-E34F26?style=flat-square&logo=html5&logoColor=white) ![Unity Engine](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) ![Spherical Projection](https://img.shields.io/badge/Spherical_Projection_Math-38BDF8?style=flat-square&logo=mathworks&logoColor=white) ![FSM AI](https://img.shields.io/badge/FSM_State_Machine-818CF8?style=flat-square&logo=diagram-next&logoColor=white) |
-| **Tools & CI/CD** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-
-</div>
-
----
-
-### 📊 GitHub Activity & Real-Time Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kri2126&show_icons=true&theme=tokyonight&hide_border=false&border_color=38bdf8&border_radius=12&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" alt="kri2126 GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kri2126&layout=compact&theme=tokyonight&hide_border=false&border_color=38bdf8&border_radius=12&title_color=38bdf8&text_color=94a3b8" alt="kri2126 Top Languages" />
-</div>
-
----
-
 ### 📬 Connect & Landing Links
 
 <div align="center">
