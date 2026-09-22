@@ -11,18 +11,18 @@
 
   <!-- Animated Typing SVG Subtitle -->
   <a href="https://github.com/kri2126">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=%EB%8C%80%ED%95%99%EA%B5%90+%EC%A1%B8%EC%97%85%EC%9E%91%ED%92%88+'NightPlanet'%EC%97%90%EC%84%9C+%EC%8B%9C%EC%9E%91%EB%90%9C+%ED%96%89%EC%84%B1+%ED%83%90%ED%97%98%EC%9D%98+%EA%BF%88;From+NightPlanet+Capstone+to+Everplanet+Prototype;60+FPS+Vanilla+JS+Canvas+Engine+%26+Unity+C%23+Architecture;Crafting+Interactive+Planetary+Worlds+and+Game+Math" alt="kri2126 Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=%EB%8C%80%ED%95%99%EA%B5%90+%EC%A1%B8%EC%97%85%EC%9E%91%ED%92%88+'NightPlanet'%EC%97%90%EC%84%9C+%EC%8B%9C%EC%9E%91%EB%90%9C+%ED%96%89%EC%84%B1+%ED%83%90%ED%97%98%EC%9D%98+%EA%BF%88;From+NightPlanet+Capstone+to+Everplanet+3D;Three.js+2.5D+Planetary+Engine+%26+Unity+C%23+Architecture;Crafting+Interactive+Planetary+Worlds+and+Game+Math" alt="kri2126 Typing SVG" />
   </a>
 
   <br />
 
   <!-- Quick Jump Landing Navigation Pills -->
   <p align="center">
-    <a href="#-flagship-repository-everplanet-에버플래닛-프로토타입">
+    <a href="#-flagship-repository-everplanet-에버플래닛-프로토타입-3d">
       <img src="https://img.shields.io/badge/🪐%20레포_이동-everplanet-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Jump to Everplanet" />
     </a>
-    <a href="https://kri2126.github.io/everplanet/web/evergreen-exploration.html" target="_blank">
-      <img src="https://img.shields.io/badge/🎮%20웹_데모_실행-Play_Evergreen-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Demo" />
+    <a href="https://kri2126.github.io/everplanet/web/evergreen-3d.html" target="_blank">
+      <img src="https://img.shields.io/badge/🎮%20웹_데모_실행_(3D)-Play_Evergreen_3D-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play 3D Demo" />
     </a>
     <a href="#-origin-project-nightplanet-나이트플래닛---대학교-졸업작품">
       <img src="https://img.shields.io/badge/🌙%20졸업작품_보기-NightPlanet-6366f1?style=for-the-badge&logo=storybook&logoColor=white" alt="Jump to NightPlanet" />
@@ -41,7 +41,7 @@
 > **"지평선 너머로 펼쳐지는 둥근 별의 모험과 시스템 아키텍처를 코딩합니다."**
 
 안녕하세요! 게임의 본질적인 조작감과 공간 투영 수학, 그리고 탄탄한 객체지향 소프트웨어 설계를 탐구하는 개발자 **kri2126**의 GitHub 포털입니다.  
-이 페이지는 제가 개발해온 **핵심 프로젝트들(NightPlanet ➜ Everplanet)로 바로 연결되는 중앙 랜딩 게이트웨이**입니다.
+이 페이지는 제가 개발해온 **핵심 프로젝트들(NightPlanet ➜ Everplanet 3D)로 바로 연결되는 중앙 랜딩 게이트웨이**입니다.
 
 ---
 
@@ -51,20 +51,20 @@
 
 | 프로젝트 / 저장소 | 기술 스택 | 설명 & 링크 | 바로가기 |
 | :--- | :--- | :--- | :---: |
-| 🪐 **[kri2126 / everplanet](https://github.com/kri2126/everplanet)** | `JavaScript` `Canvas 2D` `Unity (C#)` | **에버플래닛 프로토타입 (Flagship)**<br>둥근 행성 정구형 투영 렌더링 + 60FPS 무설치 웹 싱글플레이어 게임 | [**저장소 방문 ↗**](https://github.com/kri2126/everplanet) |
+| 🪐 **[kri2126 / everplanet](https://github.com/kri2126/everplanet)** | `Three.js` `WebGL / 2.5D` `Unity (C#)` | **에버플래닛 프로토타입 (Flagship - 3D판)**<br>Three.js 구체 지형 + 2D 빌보드 2.5D 행성 탐험 & 슬라임 전투 | [**저장소 방문 ↗**](https://github.com/kri2126/everplanet) |
 | 🌙 **[NightPlanet (Origin)]** | `Graduation Capstone` `Game Design` | **나이트플래닛 (대학교 졸업작품)**<br>원작 에버플래닛의 둥근 구형 세계관에 매료되어 시작된 첫 행성 구현 프로젝트 | [**상세 보기 ↓**](#-origin-project-nightplanet-나이트플래닛---대학교-졸업작품) |
-| 🎮 **[Live Demo: 에버그린 탐사](https://kri2126.github.io/everplanet/web/evergreen-exploration.html)** | `Web Standard` `Vanilla JS` | **브라우저 즉시 플레이**<br>별도 설치 없이 웹 브라우저에서 바로 조작해보는 행성 곡률 탐험 | [**데모 플레이 ↗**](https://kri2126.github.io/everplanet/web/evergreen-exploration.html) |
+| 🎮 **[Live Demo: 에버그린 3D판](https://kri2126.github.io/everplanet/web/evergreen-3d.html)** | `Three.js 2.5D` `Web Standard` | **브라우저 즉시 3D 플레이**<br>무설치 웹 3D 구체 행성 탐사, NPC 퀘스트, 슬라임 퇴치, 착륙 컷신 | [**3D 데모 플레이 ↗**](https://kri2126.github.io/everplanet/web/evergreen-3d.html) |
 
 ---
 
-### 🪐 Flagship Repository: [everplanet (에버플래닛 프로토타입)](https://github.com/kri2126/everplanet)
+### 🪐 Flagship Repository: [everplanet (에버플래닛 프로토타입 3D)](https://github.com/kri2126/everplanet)
 
 <div align="center">
 
 ```
    ┌──────────────────────────────────────────────────────────────────┐
-   │  🌐 [Live Play] 브라우저에서 즉시 조작해 볼 수 있는 라이브 데모!    │
-   │  https://kri2126.github.io/everplanet/web/evergreen-exploration.html  │
+   │  🌐 [Live 3D Play] 브라우저에서 즉시 조작해 볼 수 있는 3D 라이브 데모! │
+   │  https://kri2126.github.io/everplanet/web/evergreen-3d.html      │
    └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -72,19 +72,20 @@
 
 넥슨의 명작 캐주얼 MMORPG '에버플래닛'의 고유한 세계관과 핵심 메커니즘을 1인 개발 싱글플레이어 프로토타입으로 재탄생시킨 플래그십 프로젝트입니다.
 
-#### 📌 핵심 기술 하이라이트
-- **📐 정구형 투영 렌더링 (Spherical Curvature Projection)**:
-  - 플레이어 중심 거리에 따른 비선형 곡률 왜곡 수식을 개발하여, 앞으로 걸어갈수록 둥근 지평선 너머의 숲과 랜드마크가 시야 위로 솟아오르는 원작 특유의 행성 시야를 웹 표준 기술로 재현.
-- **⚡ 무설치 60 FPS 순수 Canvas 엔진 (`web/evergreen-exploration.html`)**:
-  - 외부 무거운 엔진 없이 순수 HTML5 Canvas & Vanilla JS만으로 60 FPS 부드러운 카메라 팔로우, 타원체 충돌 판정, 벡터 슬라이딩을 구현.
+#### 📌 3D판 핵심 기술 하이라이트 (로드맵 6 완성)
+- **🪐 Three.js 기반 2.5D 구체 행성 엔진 (`web/evergreen-3d.html`)**:
+  - 실제 구체 지형 메시 위에 2D 스프라이트 그림 판(빌보드)을 결합하여, 원작 특유의 따뜻하고 둥근 동화풍 행성 공간감을 웹 3D로 완벽 구현.
+- **🗺️ 정밀한 인게임 네비게이션 시스템**:
+  - 실시간 지형을 위에서 내려다보는 원형 미니맵, M 전체 구역 지도, MM 전경도(월드맵) 지원.
+- **⚔️ 탐험·퀘스트·전투 루프 완성**:
+  - 비행선 착륙 컷신, 별내림 천문대 구역 NPC 3인 퀘스트, 슬라임 8마리 배치 및 기본 공격 전투, 별 조각 수집 루프 구현.
 - **🏗️ 확장형 Unity C# 시스템 아키텍처 (`Assets/Scripts/`)**:
-  - FSM(유한 상태 머신) 기반 적 AI (`Idle` → `Patrol` → `Chase` → `Attack`), 싱글턴 `GameManager`, `ScriptableObject` 기반 데이터 주도 설계 완료.
-- **🗺️ 체계적인 개발 로드맵 완비**:
-  - `roadmap/ROADMAP_1.md` ~ `ROADMAP_5.md`까지 단계별 탐험, 전투, 성장, 행성 이동, 저장 시스템 마감 계획 수립.
+  - FSM(유한 상태 머신) 기반 적 AI, 싱글턴 `GameManager`, `ScriptableObject` 기반 데이터 주도 설계 완료.
 
 #### 🚀 레포지토리 바로가기 링크:
 - [📂 **kri2126 / everplanet 저장소 방문하기**](https://github.com/kri2126/everplanet)
-- [🎮 **웹 브라우저에서 '에버그린 탐사' 바로 플레이하기**](https://kri2126.github.io/everplanet/web/evergreen-exploration.html)
+- [🎮 **웹 브라우저에서 '에버그린 3D판' 바로 플레이하기**](https://kri2126.github.io/everplanet/web/evergreen-3d.html)
+- [📜 **3D 재구축 로드맵 문서 (roadmap/ROADMAP_6.md)**](https://github.com/kri2126/everplanet/blob/main/roadmap/ROADMAP_6.md)
 - [📄 **기획 및 시스템 설계 문서 (DESIGN_DOC.md)**](https://github.com/kri2126/everplanet/blob/main/DESIGN_DOC.md)
 
 ---
@@ -98,7 +99,7 @@
   - 밤하늘과 별빛 테마의 원형 행성을 무대로, 캐릭터 이동과 카메라 추적, 행성 공간 투영 파이프라인의 기초를 정립했습니다.
 - **개발 의의**:
   - 단순한 학과 과제를 넘어, **"어떻게 하면 평면 화면에서 둥근 별의 곡률과 지평선 너머의 미지의 세계를 생생하게 전달할 수 있을까?"**라는 질문을 품게 만든 프로젝트입니다.
-  - 이 첫 번째 도전에서의 수많은 기술적 고민과 애정이 거름이 되어, 현재의 **`Everplanet Prototype`**으로 눈부시게 이어지게 되었습니다.
+  - 이 첫 번째 도전에서의 수많은 기술적 고민과 애정이 거름이 되어, 현재의 **`Everplanet 3D Prototype`**으로 눈부시게 이어지게 되었습니다.
 
 ---
 
@@ -106,7 +107,7 @@
 
 ```mermaid
 flowchart LR
-    A["🎓 대학교 졸업작품<br><b>NightPlanet</b><br>• 원작 에버플래닛 오마주<br>• 밤하늘 테마 구형 행성 첫 구현<br>• 게임 공간 투영의 첫 걸음"] -->|비전 계승 & 수학적 고도화| B["🪐 현재 플래그십<br><b>Everplanet Prototype</b><br>• 60 FPS 웹 정구형 투영 알고리즘<br>• 무설치 HTML5 캔버스 엔진<br>• Unity C# 모듈형 아키텍처"]
+    A["🎓 대학교 졸업작품<br><b>NightPlanet</b><br>• 원작 에버플래닛 오마주<br>• 밤하늘 테마 구형 행성 첫 구현<br>• 게임 공간 투영의 첫 걸음"] -->|비전 계승 & 수학적 고도화| B["🪐 현재 플래그십<br><b>Everplanet 3D Prototype</b><br>• Three.js 2.5D 구체 행성 엔진<br>• 원형 미니맵·퀘스트·슬라임 전투<br>• Unity C# 모듈형 아키텍처"]
     B --> C["🌟 차세대 확장 세계<br>• 다중 행성 이동 (아스마라/이타카/노바루나)<br>• FSM 전투 및 성장 시스템 완성"]
     
     style A fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#fff
@@ -115,7 +116,7 @@ flowchart LR
 ```
 
 - **The Spark (NightPlanet)**: 대학교 졸업작품을 통해 원작의 감성과 구형 맵 메커니즘을 탐구하며 게임 프로그래밍의 기초를 닦았습니다.
-- **The Evolution (Everplanet)**: 졸업 이후, 웹 캔버스(HTML5 Canvas/JS) 환경에서 **정구형 곡률 투영 알고리즘**을 자체 수학 공식으로 정립하고, 대규모 확장을 대비한 **Unity C# 코어 아키텍처**를 완성하여 독자적인 실전 포트폴리오로 진화시켰습니다.
+- **The Evolution (Everplanet 3D)**: 졸업 이후, 웹 캔버스를 거쳐 **Three.js 기반 2.5D 구체 행성 엔진**으로 도약하여 무설치 3D 탐험, 퀘스트, 슬라임 전투를 실현하고 독자적인 실전 포트폴리오로 진화시켰습니다.
 
 ---
 
@@ -129,8 +130,8 @@ flowchart LR
   <a href="https://github.com/kri2126/everplanet">
     <img src="https://img.shields.io/badge/🪐%20Repo-everplanet-0284c7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://kri2126.github.io/everplanet/web/evergreen-exploration.html">
-    <img src="https://img.shields.io/badge/🎮%20Play-Evergreen_Exploration-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://kri2126.github.io/everplanet/web/evergreen-3d.html">
+    <img src="https://img.shields.io/badge/🎮%20Play-Evergreen_3D-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="#-origin-project-nightplanet-나이트플래닛---대학교-졸업작품">
     <img src="https://img.shields.io/badge/🌙%20Capstone-NightPlanet-6366f1?style=for-the-badge&logo=storybook&logoColor=white" />
